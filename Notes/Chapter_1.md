@@ -22,7 +22,7 @@
 
 ## 4. Bootstrap Method
 
-- Estimates the uncertainty of estimators through resampling, including variance ($Var(\hat{\mu})$), standard error ($S.E(\hat{\mu})$), and confidence interval ($C.I(\hat{\mu})$)
+- Estimates the uncertainty of estimators through resampling, including variance $Var(\hat{\mu})$, standard error $S.E(\hat{\mu})$, and confidence interval $C.I(\hat{\mu})$
 - **Method**: Sample with replacement to obtain an approximate sampling distribution of the estimator
 
 ## 5. Statistical Hypothesis and Inference
